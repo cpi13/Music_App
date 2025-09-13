@@ -13,17 +13,18 @@ This repository contains a **Flutter music app UI** featuring a modern, engaging
 ## Screenshots
 
 Home screen with trending music and playlists:  
-![music_app_ui_1](https://github.com/user-attachments/assets/0ceb7d81-a720-4d81-8175-3ab5df999635)
+<img width="300"  alt="home_screen" src="https://github.com/user-attachments/assets/0ceb7d81-a720-4d81-8175-3ab5df999635" />
+
 
 
 
 Playlist detail view:  
-![music_app_ui_2](https://github.com/user-attachments/assets/4ca484fe-000a-43ab-9ea6-2f75424f931b)
+<img width="300"  alt="playlist_screen" src= "https://github.com/user-attachments/assets/4ca484fe-000a-43ab-9ea6-2f75424f931b"/>
 
 
 
 Music player interface:  
-![music_app_ui_3](https://github.com/user-attachments/assets/11d571cd-7fff-4ed8-a52c-718ddef34e48)
+<img width="300"  alt="dribble_Design" src= "https://github.com/user-attachments/assets/11d571cd-7fff-4ed8-a52c-718ddef34e48"/>
 
 
 
